@@ -1,4 +1,4 @@
-# lpc README
+# LPC language extension for Visual Studio Code
 
 This is the README for your extension "lpc". After writing up a brief description, we recommend including the following sections.
 
